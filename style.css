@@ -3,11 +3,18 @@ h1{
     font-size: 25px;
     color: green (98, 190, 17);
 }
- body {
+ body { 
      background-color: rgb(177, 52, 73)}
     .yasmin{
     background-image: url("garanani.jpeg");
     }
+    .button{
+
+display: inline-block;
+    }
+.button{
+padding: 10px
+}
     
  
 
